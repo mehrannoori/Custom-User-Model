@@ -1,1 +1,1 @@
-I use 'AbstractUser' to create user. 
+Create an app named accounts in Django which uses `AbstractUser` to create users. 
